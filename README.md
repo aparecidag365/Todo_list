@@ -1,5 +1,5 @@
 <h1 align="center">Olá! meu nome é Aparecida Goulart Eleutério</h1>
-<h3 align="center">Sou formada em Sistemas de Informação. Atualmente estudante da Trybe.A passionate frontend developer from India</h3>
+<h3 align="center">Sou formada em Sistemas de Informação. Atualmente estudante da Trybe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aparecidag365&label=Profile%20views&color=0e75b6&style=flat" alt="aparecidag365" /> </p>
 
@@ -14,4 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aparecidag365&show_icons=true&locale=en&layout=compact" alt="aparecidag365" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparecidag365&show_icons=true&locale=en" alt="aparecidag365" /></p>
-// Em andamento...
